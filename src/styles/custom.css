@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.img-plantas {
+  width: 623px;
+  height: 578px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.fondo-bg {
+  background-image: url("../../public/imagenfondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.formulario {
+  max-width: 400px;
+  border: none;
+}
+
+.bordes {
+  border: none;
+}
+
+.fondo {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}/*# sourceMappingURL=custom.css.map */
