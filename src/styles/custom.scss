@@ -1,7 +1,7 @@
 // src/styles/custom.scss
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway';
     
 
 }
@@ -10,18 +10,9 @@ body {
     margin-top: 20px;
 }
 
-.img-plantas {
-    width: 623px;
-    height: 578px;
-    object-fit: cover; 
-}
 
-.fondo-bg {
-    background-image: url('../../public/imagenfondo.png'); // Imagen de fondo
-    background-size: cover; // Ajustar al tamaño del contenedor
-    background-position: center; // Centrar la imagen
-    background-repeat: no-repeat; // No repetir la imagen
-}
+
+
 
 .formulario{
     max-width: 400px; 
